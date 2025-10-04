@@ -1,3 +1,8 @@
+yeast-test.arff
+yeast-train.arff
+yeast.rar
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
